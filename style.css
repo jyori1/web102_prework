@@ -9,6 +9,25 @@ body {
     width: 50px;
 }
 
+.nav-button:link {
+    text-decoration: none;
+}
+
+.nav-button:hover {
+    font-weight: bold;
+    background-color: #758190;
+}
+
+.nav-button {
+    margin-left: auto;
+    padding: 1.5%;
+    font-size: medium;
+    font-weight: lighter;
+    color:black;
+    border-radius: 10%;
+    background-color: #a8b0bc;
+}
+
 .header {
     display: flex;
     background-color: lightblue;
@@ -21,6 +40,14 @@ body {
 
 .stats-container {
     display: flex;
+    align-content: stretch;
+    flex-flow: row column-reverse;
+    justify-content: space-around;
+}
+
+.stats-container:hover {
+    box-shadow: 0 0 30px lightblue;
+    cursor: pointer;
 }
 
 .stats-card {
