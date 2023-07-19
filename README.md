@@ -23,13 +23,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/ZPevF6j' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Kapture 2023-07-19 at 12 10 27](https://github.com/jyori1/web102_prework/assets/53527540/732fefbe-22f7-494f-9ba4-11c9f1d37c57)
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was interesting working with JSON data in order to filter out the unfunded and funded games. JavaScript syntax, primarily for changing .innerHTML, took a moment to get accustomed to.
 
 ## License
 
